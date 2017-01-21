@@ -1,4 +1,6 @@
-package com.vinaysshenoy.core3d;
+package com.vinaysshenoy.android3d.desktop;
+
+import com.vinaysshenoy.core3d.Core3d;
 
 import java.util.concurrent.TimeUnit;
 

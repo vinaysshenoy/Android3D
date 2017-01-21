@@ -3,7 +3,6 @@ package com.vinaysshenoy.android3d.desktop;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
 import com.vinaysshenoy.core3d.Core3d;
-import com.vinaysshenoy.core3d.ModelAnimatorThread;
 
 public class DesktopApplication {
 
